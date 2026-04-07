@@ -94,4 +94,5 @@ https://youtu.be/Mzxn0eGKfso?si=hYrdH0qsXuAeTq6R
 ---
 
 ## 📌 Dataset
-https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0hqZmc0dlhPTmxMX2ZFWEdNUTYwcjc2cDgtQXxBQ3Jtc0tsTEd0b0Q3cHZEQXg2R29yQUNKdEtnTnZET1hGb3RVNXEwSVlseW96WHMySF8zN1dIT0M5bElCdW9qNFBPMTBsTjRlX25iRmpPWUtnQjVzbUVqdTZabVlLR1R5WTExd2dvZHMzZHpWeTEwTTJIUFVxZw&q=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Falgorismus%2Fadventure-works-in-excel-tables%3Fselect%3DProduct.csv&v=Mzxn0eGKfso
+
+https://www.kaggle.com/datasets/algorismus/adventure-works-in-excel-tables?select=Product.csv
